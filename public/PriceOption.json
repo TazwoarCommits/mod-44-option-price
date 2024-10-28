@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Plan",
+      "price": 30,
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "1 personal training session per month",
+        "Basic group classes"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plan",
+      "price": 50,
+      "features": [
+        "All Basic Plan features",
+        "5 personal training sessions per month",
+        "Access to all group classes",
+        "1 fitness assessment per month",
+        "Free workout plan"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Plan",
+      "price": 75,
+      "features": [
+        "All Standard Plan features",
+        "Unlimited personal training sessions",
+        "Monthly body composition analysis",
+        "Access to sauna and steam room",
+        "Priority booking for classes",
+        "Discounts on products and supplements"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "VIP Plan",
+      "price": 100,
+      "features": [
+        "All Premium Plan features",
+        "Personalized diet plan",
+        "24/7 gym access",
+        "Complimentary health and wellness coaching",
+        "Access to VIP lounge",
+        "One-on-one sessions with top trainers",
+        "Priority customer support"
+      ]
+    }
+  ]
+  
